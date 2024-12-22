@@ -7,6 +7,8 @@ Trabajador de equipo, me gustaría seguir creciendo profesionalmente en proyecto
 Me especializo en:
 - 🌐 Desarrollo web: HTML, CSS, JavaScript, React
 - 🖥️ Backend: Node.js, Python, Java
+- ⚙️ Desarrollo de software de alto rendimiento:
+C++ y CUDA para sistemas embebidos, optimización de algoritmos y simulaciones de alto rendimiento.
 - 🤖 Inteligencia Artificial:
 Procesamiento de datos: NumPy, Pandas.
 Modelado y entrenamiento: TensorFlow, PyTorch, Scikit-learn.
@@ -16,7 +18,7 @@ Siempre dispuesto a descubrir más del tema.
 - [Proyecto 1](https://github.com/aegui13/EstudioBomberos): Proyecto de prediccion de accidentes por madrid que usa statsmodels, pandas, numpy y scipy.stats.
 - [Proyecto 2](https://github.com/aegui13/Mundo-ia): Proyecto el cual trata de similar movimientos de protones, electrones y neutrones. Utiliza c++ y py para predecir posibilidades.
 - [Proyecto 3](https://github.com/aegui13/PrediccionObjetos): Proyecto de detección de objetos dentro de imagenes. Utiliza principalmente TensorFlow, PyTorch, Scikit-learn.
-- Proyecto por añadir: TFG en progreso de prediccion de fluidos para una simulación de estos mismos.
+- Proyecto por añadir: TFG en progreso de prediccion de fluidos para una simulación de estos mismos que usa C++ y CUDA.
 
 ## 📫 Cómo contactarme
 - Email: [aeguiguren13@gmail.com](mailto:aeguiguren13@gmail.com)
